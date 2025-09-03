@@ -1,4 +1,7 @@
-**/.DS_Store
-**/__pycache__/
-*.pyc
-
+results/
+saved_bias_model/
+.ipynb_checkpoints/
+*.pt
+*.bin
+*.safetensors
+*.ckpt
