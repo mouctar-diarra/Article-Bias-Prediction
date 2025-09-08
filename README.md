@@ -41,12 +41,12 @@ This repository contains Jupyter Notebook code that requires the following Pytho
 For users with a standard Anaconda setup, most packages like `pandas`, `numpy`, `json`, `pathlib`, and `time` are included by default.  
 For packages not included by default, you can install them using `pip` in a terminal or directly in a Jupyter Notebook cell:
 
-pip install torch
-pip install transformers
-pip install itables
-pip install fastparquet
-pip install optuna
-pip install lxml_html_clean
-pip install selenium
-pip install webdriver-manager
-pip install google-search-results
+* `pip install torch`
+* `pip install transformers`
+* `pip install itables`
+* `pip install fastparquet`
+* `pip install optuna`
+* `pip install lxml_html_clean`
+* `pip install selenium`
+* `pip install webdriver-manager`
+* `pip install google-search-results`
